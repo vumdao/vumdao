@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vu Dao</h1>
-<h2 align="center"><b>AweSome DevSecOps || CloudOpz</b></h2>
+<h2 align="center"><b>Awesome Devops || AWS SA || CloudOpz</b></h2>
 
 ---
 
