@@ -33,7 +33,7 @@
 </p>
 <br>
 
-## :octocat: [AMA - Ask Me Anything](https://github.com/ibrahimcesar/ibrahimcesar/discussions/categories/ama-ask-me-anything)
+## :octocat: [AMA - Ask Me Anything](https://github.com/vumdao/vumdao/discussions/categories/ama-ask-me-anything)
 
 ---
 

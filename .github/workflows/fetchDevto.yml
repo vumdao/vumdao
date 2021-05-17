@@ -13,5 +13,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "DEVTO_LIST"
-          feed_list: "https://dev.to/feed/ibrahimcesar"
+          feed_list: "https://dev.to/feed/vumdao"
           max_post_count: 10
