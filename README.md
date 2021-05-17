@@ -53,4 +53,4 @@
 
 ---
 
-[! [Vu Dao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vumdao)] (https://github.com/anuraghazra/github-readme-stats)
+[![Vu Dao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vumdao)](https://github.com/anuraghazra/github-readme-stats)
