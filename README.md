@@ -39,6 +39,16 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Add Taints To AWS EKS Cluster And Trouble Shooting](https://dev.to/vumdao/add-taints-to-aws-eks-cluster-and-trouble-shooting-55ah)
+- [CDK8S Example](https://dev.to/vumdao/cdk8s-example-2glk)
+- [Launch A Multi-node Kubernetes Cluster Using Vagrant And KVM](https://dev.to/vumdao/launch-a-multi-node-kubernetes-cluster-using-vagrant-and-kvm-2pm)
+- [AWS GuardDuty Combine With Security Hub And Slack](https://dev.to/vumdao/aws-guardduty-combine-with-security-hub-and-slack-17eh)
+- [HAProxy Basic Login Authentication](https://dev.to/vumdao/haproxy-basic-login-authentication-48l2)
+- [Memory Consumption In Linux](https://dev.to/vumdao/memory-consumption-in-linux-3b55)
+- [SES Email Tracking](https://dev.to/vumdao/ses-email-tracking-34)
+- [Ensure No Product Tenants Are Opened During Maintenance Mode](https://dev.to/vumdao/ensure-no-product-tenants-are-opened-during-maintenance-mode-23e0)
+- [Quick Test Your Bash Shell](https://dev.to/vumdao/quick-test-your-bash-shell-eml)
+- [Using Bash Shell To Parsing Apache Logs](https://dev.to/vumdao/using-bash-shell-to-parsing-apache-logs-4pi0)
 <!-- DEVTO_LIST:END -->
 
 ---
