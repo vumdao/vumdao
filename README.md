@@ -38,8 +38,8 @@
 ---
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
-<! - DEVTO_LIST: START ->
-<! - DEVTO_LIST: END ->
+<!-- DEVTO_LIST: START -->
+<!-- DEVTO_LIST: END -->
 
 ---
 
