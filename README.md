@@ -58,7 +58,7 @@
 
 ---
 
-## 📈 GitHub Stats  ![Vu Dao's GitHub stats](https://komarev.com/ghpvc/?username=vumdao&color=green)
+## 📈 GitHub Stats  ![Profile views](https://gpvc.arturio.dev/vumdao)
 ![Vu Dao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vumdao&theme=blue-green&show_icons=true&line_height=27&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vumdao&theme=blue-green&langs_count=1)
 ![Vu Dao's github streak](https://github-readme-streak-stats.herokuapp.com/?user=vumdao&theme=blue-green)
