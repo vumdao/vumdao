@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Quick Start Lambda Container Image Using AWS CDK 2.0](https://dev.to/vumdao/quick-start-lambda-container-image-using-aws-cdk-2-0-1ifc)
 - [CI/CD For CDN Invalidation Using AWS Lambda Function And Gitlab Pipeline](https://dev.to/vumdao/ci-cd-for-cdn-invalidation-using-aws-lambda-function-and-gitlab-pipeline-3662)
 - [Add Taints To AWS EKS Cluster And Trouble Shooting](https://dev.to/vumdao/add-taints-to-aws-eks-cluster-and-trouble-shooting-55ah)
 - [CDK8S Example](https://dev.to/vumdao/cdk8s-example-2glk)
@@ -53,7 +54,6 @@
 - [Memory Consumption In Linux](https://dev.to/vumdao/memory-consumption-in-linux-3b55)
 - [SES Email Tracking](https://dev.to/vumdao/ses-email-tracking-34)
 - [Ensure No Product Tenants Are Opened During Maintenance Mode](https://dev.to/vumdao/ensure-no-product-tenants-are-opened-during-maintenance-mode-23e0)
-- [Quick Test Your Bash Shell](https://dev.to/vumdao/quick-test-your-bash-shell-eml)
 <!-- DEVTO_LIST:END -->
 
 ---
