@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [FRP - Fast Reserve Proxy - Connect To Database In Private Network](https://dev.to/vumdao/frp-fast-reserve-proxy-connect-to-database-in-private-network-4bdg)
 - [Quick Start Lambda Container Image Using AWS CDK 2.0](https://dev.to/vumdao/quick-start-lambda-container-image-using-aws-cdk-2-0-1ifc)
 - [CI/CD For CDN Invalidation Using AWS Lambda Function And Gitlab Pipeline](https://dev.to/vumdao/ci-cd-for-cdn-invalidation-using-aws-lambda-function-and-gitlab-pipeline-3662)
 - [Add Taints To AWS EKS Cluster And Trouble Shooting](https://dev.to/vumdao/add-taints-to-aws-eks-cluster-and-trouble-shooting-55ah)
@@ -53,7 +54,6 @@
 - [HAProxy Basic Login Authentication](https://dev.to/vumdao/haproxy-basic-login-authentication-48l2)
 - [Memory Consumption In Linux](https://dev.to/vumdao/memory-consumption-in-linux-3b55)
 - [SES Email Tracking](https://dev.to/vumdao/ses-email-tracking-34)
-- [Ensure No Product Tenants Are Opened During Maintenance Mode](https://dev.to/vumdao/ensure-no-product-tenants-are-opened-during-maintenance-mode-23e0)
 <!-- DEVTO_LIST:END -->
 
 ---
