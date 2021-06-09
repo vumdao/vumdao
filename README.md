@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [IAM Service Account For aws-node DaemonSet](https://dev.to/vumdao/iam-service-account-for-aws-node-daemonset-1p5j)
 - [Using IAM Service Account Instead Of Instance Profile For EKS Pods](https://dev.to/vumdao/using-iam-service-account-instead-of-instance-profile-for-eks-pods-262p)
 - [FRP - Fast Reserve Proxy - Connect To Database In Private Network](https://dev.to/vumdao/frp-fast-reserve-proxy-connect-to-database-in-private-network-4bdg)
 - [Quick Start Lambda Container Image Using AWS CDK 2.0](https://dev.to/vumdao/quick-start-lambda-container-image-using-aws-cdk-2-0-1ifc)
@@ -53,7 +54,6 @@
 - [Launch A Multi-node Kubernetes Cluster Using Vagrant And KVM](https://dev.to/vumdao/launch-a-multi-node-kubernetes-cluster-using-vagrant-and-kvm-2pm)
 - [AWS GuardDuty Combine With Security Hub And Slack](https://dev.to/vumdao/aws-guardduty-combine-with-security-hub-and-slack-17eh)
 - [HAProxy Basic Login Authentication](https://dev.to/vumdao/haproxy-basic-login-authentication-48l2)
-- [Memory Consumption In Linux](https://dev.to/vumdao/memory-consumption-in-linux-3b55)
 <!-- DEVTO_LIST:END -->
 
 ---
