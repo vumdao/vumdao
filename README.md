@@ -3,7 +3,7 @@
 
 ---
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/vumdao) [![GitHub followers](https://img.shields.io/github/followers/vumdao?label=Followers&style=social)](https://github.com/vumdao/?tab=follow) ![Profile views](https://komarev.com/ghpvc/?username=vumdao&color=blueviolet) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-vumdao-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vu-dao-9280ab43/)](https://www.linkedin.com/in/mikhail-ivanov-bb585160/) [![Instagram Badge](https://img.shields.io/badge/-dev.to-black?style=flat&logo=instagram&logoColor=white&link=https://dev.to/vumdao)](https://https://dev.to/vumdao)
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/vumdao) [![GitHub followers](https://img.shields.io/github/followers/vumdao?label=Followers&style=social)](https://github.com/vumdao/?tab=follow) ![Profile views](https://komarev.com/ghpvc/?username=vumdao&color=blueviolet) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-vumdao-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vu-dao-9280ab43/)](https://www.linkedin.com/in/mikhail-ivanov-bb585160/) [![Instagram Badge](https://img.shields.io/badge/-dev.to-black?style=flat&logo=instagram&logoColor=white&link=https://dev.to/vumdao)](https://dev.to/vumdao)
 
 
 <img align="right" src="https://github.com/mikonoid/mikonoid/blob/main/images/gifs/coder3.gif?raw=true" width="500" height="320" />
