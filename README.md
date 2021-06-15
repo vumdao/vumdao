@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [EKS Cluster CONSOLE CREDENTIALS](https://dev.to/awscommunity-asean/eks-cluster-console-credentials-ded)
 - [IAM Service Account For aws-node DaemonSet](https://dev.to/vumdao/iam-service-account-for-aws-node-daemonset-1p5j)
 - [Using IAM Service Account Instead Of Instance Profile For EKS Pods](https://dev.to/vumdao/using-iam-service-account-instead-of-instance-profile-for-eks-pods-262p)
 - [FRP - Fast Reserve Proxy - Connect To Database In Private Network](https://dev.to/vumdao/frp-fast-reserve-proxy-connect-to-database-in-private-network-4bdg)
@@ -53,7 +54,6 @@
 - [CDK8S Example](https://dev.to/vumdao/cdk8s-example-2glk)
 - [Launch A Multi-node Kubernetes Cluster Using Vagrant And KVM](https://dev.to/vumdao/launch-a-multi-node-kubernetes-cluster-using-vagrant-and-kvm-2pm)
 - [AWS GuardDuty Combine With Security Hub And Slack](https://dev.to/vumdao/aws-guardduty-combine-with-security-hub-and-slack-17eh)
-- [HAProxy Basic Login Authentication](https://dev.to/vumdao/haproxy-basic-login-authentication-48l2)
 <!-- DEVTO_LIST:END -->
 
 ---
