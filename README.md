@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [AWS SSM Agent - Connection Error](https://dev.to/awscommunity-asean/aws-ssm-agent-connection-error-3kn9)
 - [Kubernetes Cluster Autoscaler With IRSA](https://dev.to/awscommunity-asean/kubernetes-cluster-autoscaler-with-irsa-3bg5)
 - [EKS Cluster CONSOLE CREDENTIALS](https://dev.to/awscommunity-asean/eks-cluster-console-credentials-ded)
 - [IAM Service Account For aws-node DaemonSet](https://dev.to/vumdao/iam-service-account-for-aws-node-daemonset-1p5j)
@@ -53,7 +54,6 @@
 - [CI/CD For CDN Invalidation Using AWS Lambda Function And Gitlab Pipeline](https://dev.to/vumdao/ci-cd-for-cdn-invalidation-using-aws-lambda-function-and-gitlab-pipeline-3662)
 - [Add Taints To AWS EKS Cluster And Trouble Shooting](https://dev.to/vumdao/add-taints-to-aws-eks-cluster-and-trouble-shooting-55ah)
 - [CDK8S Example](https://dev.to/vumdao/cdk8s-example-2glk)
-- [Launch A Multi-node Kubernetes Cluster Using Vagrant And KVM](https://dev.to/vumdao/launch-a-multi-node-kubernetes-cluster-using-vagrant-and-kvm-2pm)
 <!-- DEVTO_LIST:END -->
 
 ---
