@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Create AWS Load Balancer Controller Ingress With CDK8S](https://dev.to/awscommunity-asean/create-aws-load-balancer-controller-ingress-with-cdk8s-3kl9)
 - [AWS SSM Agent - Connection Error](https://dev.to/awscommunity-asean/aws-ssm-agent-connection-error-3kn9)
 - [Kubernetes Cluster Autoscaler With IRSA](https://dev.to/awscommunity-asean/kubernetes-cluster-autoscaler-with-irsa-3bg5)
 - [EKS Cluster CONSOLE CREDENTIALS](https://dev.to/awscommunity-asean/eks-cluster-console-credentials-ded)
@@ -53,7 +54,6 @@
 - [Quick Start Lambda Container Image Using AWS CDK 2.0](https://dev.to/vumdao/quick-start-lambda-container-image-using-aws-cdk-2-0-1ifc)
 - [CI/CD For CDN Invalidation Using AWS Lambda Function And Gitlab Pipeline](https://dev.to/vumdao/ci-cd-for-cdn-invalidation-using-aws-lambda-function-and-gitlab-pipeline-3662)
 - [Add Taints To AWS EKS Cluster And Trouble Shooting](https://dev.to/vumdao/add-taints-to-aws-eks-cluster-and-trouble-shooting-55ah)
-- [CDK8S Example](https://dev.to/vumdao/cdk8s-example-2glk)
 <!-- DEVTO_LIST:END -->
 
 ---
