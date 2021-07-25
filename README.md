@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [AWS EKS With Amazon EC2 Spot Instances](https://dev.to/awscommunity-asean/aws-eks-with-amazon-ec2-spot-instances-405o)
 - [AWS EKS With EFS CSI Driver And IRSA Using CDK](https://dev.to/awscommunity-asean/aws-eks-with-efs-csi-driver-and-irsa-using-cdk-dgc)
 - [Amazon SSM Agent - Risk Of Security](https://dev.to/awscommunity-asean/amazon-ssm-agent-risk-of-security-4bij)
 - [Create AWS Load Balancer Controller Ingress With CDK8S](https://dev.to/awscommunity-asean/create-aws-load-balancer-controller-ingress-with-cdk8s-3kl9)
@@ -53,7 +54,6 @@
 - [IAM Service Account For aws-node DaemonSet](https://dev.to/vumdao/iam-service-account-for-aws-node-daemonset-1p5j)
 - [Using IAM Service Account Instead Of Instance Profile For EKS Pods](https://dev.to/vumdao/using-iam-service-account-instead-of-instance-profile-for-eks-pods-262p)
 - [FRP - Fast Reserve Proxy - Connect To Database In Private Network](https://dev.to/vumdao/frp-fast-reserve-proxy-connect-to-database-in-private-network-4bdg)
-- [Quick Start Lambda Container Image Using AWS CDK 2.0](https://dev.to/vumdao/quick-start-lambda-container-image-using-aws-cdk-2-0-1ifc)
 <!-- DEVTO_LIST:END -->
 
 ---
