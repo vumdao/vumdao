@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [CI/CD With ArgoCD On AWS EKS Cluster](https://dev.to/awscommunity-asean/ci-cd-with-argocd-on-aws-eks-cluster-3e09)
 - [AWS EKS With Amazon EC2 Spot Instances](https://dev.to/awscommunity-asean/aws-eks-with-amazon-ec2-spot-instances-405o)
 - [AWS EKS With EFS CSI Driver And IRSA Using CDK](https://dev.to/awscommunity-asean/aws-eks-with-efs-csi-driver-and-irsa-using-cdk-dgc)
 - [Amazon SSM Agent - Risk Of Security](https://dev.to/awscommunity-asean/amazon-ssm-agent-risk-of-security-4bij)
@@ -53,7 +54,6 @@
 - [EKS Cluster CONSOLE CREDENTIALS](https://dev.to/awscommunity-asean/eks-cluster-console-credentials-ded)
 - [IAM Service Account For aws-node DaemonSet](https://dev.to/vumdao/iam-service-account-for-aws-node-daemonset-1p5j)
 - [Using IAM Service Account Instead Of Instance Profile For EKS Pods](https://dev.to/vumdao/using-iam-service-account-instead-of-instance-profile-for-eks-pods-262p)
-- [FRP - Fast Reserve Proxy - Connect To Database In Private Network](https://dev.to/vumdao/frp-fast-reserve-proxy-connect-to-database-in-private-network-4bdg)
 <!-- DEVTO_LIST:END -->
 
 ---
