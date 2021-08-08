@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Horizontal Pod Autoscaler On EKS Cluster](https://dev.to/awscommunity-asean/horizontal-pod-autoscaler-on-eks-cluster-g33)
 - [CI/CD With ArgoCD On AWS EKS Cluster](https://dev.to/awscommunity-asean/ci-cd-with-argocd-on-aws-eks-cluster-3e09)
 - [AWS EKS With Amazon EC2 Spot Instances](https://dev.to/awscommunity-asean/aws-eks-with-amazon-ec2-spot-instances-405o)
 - [AWS EKS With EFS CSI Driver And IRSA Using CDK](https://dev.to/awscommunity-asean/aws-eks-with-efs-csi-driver-and-irsa-using-cdk-dgc)
@@ -53,7 +54,6 @@
 - [Kubernetes Cluster Autoscaler With IRSA](https://dev.to/awscommunity-asean/kubernetes-cluster-autoscaler-with-irsa-3bg5)
 - [EKS Cluster CONSOLE CREDENTIALS](https://dev.to/awscommunity-asean/eks-cluster-console-credentials-ded)
 - [IAM Service Account For aws-node DaemonSet](https://dev.to/vumdao/iam-service-account-for-aws-node-daemonset-1p5j)
-- [Using IAM Service Account Instead Of Instance Profile For EKS Pods](https://dev.to/vumdao/using-iam-service-account-instead-of-instance-profile-for-eks-pods-262p)
 <!-- DEVTO_LIST:END -->
 
 ---
