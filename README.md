@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Airflow Quick Start With docker-compose on AWS EC2](https://dev.to/awscommunity-asean/airflow-quick-start-with-docker-compose-on-aws-ec2-fj3)
 - [Horizontal Pod Autoscaler On EKS Cluster](https://dev.to/awscommunity-asean/horizontal-pod-autoscaler-on-eks-cluster-g33)
 - [CI/CD With ArgoCD On AWS EKS Cluster](https://dev.to/awscommunity-asean/ci-cd-with-argocd-on-aws-eks-cluster-3e09)
 - [AWS EKS With Amazon EC2 Spot Instances](https://dev.to/awscommunity-asean/aws-eks-with-amazon-ec2-spot-instances-405o)
@@ -53,7 +54,6 @@
 - [AWS SSM Agent - Connection Error](https://dev.to/awscommunity-asean/aws-ssm-agent-connection-error-3kn9)
 - [Kubernetes Cluster Autoscaler With IRSA](https://dev.to/awscommunity-asean/kubernetes-cluster-autoscaler-with-irsa-3bg5)
 - [EKS Cluster CONSOLE CREDENTIALS](https://dev.to/awscommunity-asean/eks-cluster-console-credentials-ded)
-- [IAM Service Account For aws-node DaemonSet](https://dev.to/vumdao/iam-service-account-for-aws-node-daemonset-1p5j)
 <!-- DEVTO_LIST:END -->
 
 ---
