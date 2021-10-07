@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vu Dao <img src="https://github.com/vumdao/vumdao/blob/master/logo.png?raw=true" width="50px"></h1>
-<h2 align="center"><b>Awesome Devops || AWS SA || CloudOpz</b></h2>
+<h2 align="center"><b>🚀 Awesome Devops | AWS Community Builder | AWS SA || ☁️ CloudOpz ☁️</b></h2>
 
 ---
 
