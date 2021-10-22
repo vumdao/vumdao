@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [AWS EKS - Launch Template Of Node Group](https://dev.to/aws-builders/aws-eks-launch-template-of-node-group-6a4)
 - [RDS Auto Restart Protection](https://dev.to/aws-builders/rds-auto-restart-protection-1bd9)
 - [Clickhouse Server - Troubleshooting](https://dev.to/vumdao/clickhouse-server-troubleshooting-2gb7)
 - [Airflow Quick Start With docker-compose on AWS EC2](https://dev.to/awscommunity-asean/airflow-quick-start-with-docker-compose-on-aws-ec2-fj3)
@@ -53,7 +54,6 @@
 - [AWS EKS With EFS CSI Driver And IRSA Using CDK](https://dev.to/awscommunity-asean/aws-eks-with-efs-csi-driver-and-irsa-using-cdk-dgc)
 - [Amazon SSM Agent - Risk Of Security](https://dev.to/awscommunity-asean/amazon-ssm-agent-risk-of-security-4bij)
 - [Create AWS Load Balancer Controller Ingress With CDK8S](https://dev.to/awscommunity-asean/create-aws-load-balancer-controller-ingress-with-cdk8s-3kl9)
-- [AWS SSM Agent - Connection Error](https://dev.to/awscommunity-asean/aws-ssm-agent-connection-error-3kn9)
 <!-- DEVTO_LIST:END -->
 
 ---
