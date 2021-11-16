@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [AWS BottleRocket On EKS NodeGroup](https://dev.to/aws-builders/aws-bottlerocket-on-eks-nodegroup-45ec)
 - [Apache Airflow In EKS Cluster](https://dev.to/aws-builders/apache-airflow-in-eks-cluster-dgo)
 - [Understand Pods communication](https://dev.to/aws-builders/understand-pods-communication-338c)
 - [EC2 Spot Interruptions - AWS Fault Injection Simulator](https://dev.to/aws-builders/ec2-spot-interruptions-aws-fault-injection-simulator-31i2)
@@ -53,7 +54,6 @@
 - [Airflow Quick Start With docker-compose on AWS EC2](https://dev.to/awscommunity-asean/airflow-quick-start-with-docker-compose-on-aws-ec2-fj3)
 - [Horizontal Pod Autoscaler On EKS Cluster](https://dev.to/awscommunity-asean/horizontal-pod-autoscaler-on-eks-cluster-g33)
 - [CI/CD With ArgoCD On AWS EKS Cluster](https://dev.to/awscommunity-asean/ci-cd-with-argocd-on-aws-eks-cluster-3e09)
-- [AWS EKS With Amazon EC2 Spot Instances](https://dev.to/awscommunity-asean/aws-eks-with-amazon-ec2-spot-instances-405o)
 <!-- DEVTO_LIST:END -->
 
 ---
