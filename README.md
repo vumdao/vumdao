@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Correlate Security Findings With AWS Security Hub and Amazon EventBridge](https://dev.to/aws-builders/correlate-security-findings-with-aws-security-hub-and-amazon-eventbridge-1hal)
 - [AWS BottleRocket On EKS NodeGroup](https://dev.to/aws-builders/aws-bottlerocket-on-eks-nodegroup-45ec)
 - [Apache Airflow In EKS Cluster](https://dev.to/aws-builders/apache-airflow-in-eks-cluster-dgo)
 - [Understand Pods communication](https://dev.to/aws-builders/understand-pods-communication-338c)
@@ -53,7 +54,6 @@
 - [Clickhouse Server - Troubleshooting](https://dev.to/vumdao/clickhouse-server-troubleshooting-2gb7)
 - [Airflow Quick Start With docker-compose on AWS EC2](https://dev.to/awscommunity-asean/airflow-quick-start-with-docker-compose-on-aws-ec2-fj3)
 - [Horizontal Pod Autoscaler On EKS Cluster](https://dev.to/awscommunity-asean/horizontal-pod-autoscaler-on-eks-cluster-g33)
-- [CI/CD With ArgoCD On AWS EKS Cluster](https://dev.to/awscommunity-asean/ci-cd-with-argocd-on-aws-eks-cluster-3e09)
 <!-- DEVTO_LIST:END -->
 
 ---
