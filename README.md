@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/vumdao)
 
-- 💬 Ask me about **AWS, Serverless, CDK, K8S, Python**
+- 💬 Ask me about **AWS, Serverless, CDK, K8S**
 
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/vu-dao-9280ab43/)
 
