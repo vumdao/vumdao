@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [AWS Karpenter Hands-on](https://dev.to/aws-builders/aws-karpenter-hands-on-custom-resources-1am9)
 - [Use CDK8S To Create AWS Controllers for Kubernetes Custom Resources](https://dev.to/aws-builders/use-cdk8s-to-create-aws-controllers-for-kubernetes-custom-resources-4542)
 - [AWS Controllers for Kubernetes Hands-on](https://dev.to/aws-builders/aws-controllers-for-kubernetes-hands-on-2d70)
 - [Correlate Security Findings With AWS Security Hub and Amazon EventBridge](https://dev.to/aws-builders/correlate-security-findings-with-aws-security-hub-and-amazon-eventbridge-1hal)
@@ -53,7 +54,6 @@
 - [EC2 Spot Interruptions - AWS Fault Injection Simulator](https://dev.to/aws-builders/ec2-spot-interruptions-aws-fault-injection-simulator-31i2)
 - [AWS EKS - Launch Template Of Node Group](https://dev.to/aws-builders/aws-eks-launch-template-of-node-group-6a4)
 - [RDS Auto Restart Protection](https://dev.to/aws-builders/rds-auto-restart-protection-1bd9)
-- [Clickhouse Server - Troubleshooting](https://dev.to/vumdao/clickhouse-server-troubleshooting-2gb7)
 <!-- DEVTO_LIST:END -->
 
 ---
