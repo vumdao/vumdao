@@ -44,6 +44,9 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Keda ScaledObject As Code Using CDK8S](https://dev.to/aws-builders/keda-scaledobject-as-code-using-cdk8s-268c)
+- [Access Control And OpenSearch Service Security](https://dev.to/aws-builders/access-control-and-opensearch-service-security-2lkn)
+- [AWS Athena Query WAF logs](https://dev.to/aws-builders/aws-athena-query-waf-logs-17ko)
 - [Troubleshoot Karpenter Node](https://dev.to/aws-builders/troubleshoot-karpenter-node-44p0)
 - [Karpenter with AWS Node Termination Handler](https://dev.to/aws-builders/karpenter-with-aws-node-termination-handler-149d)
 - [AWS Karpenter Hands-on](https://dev.to/aws-builders/aws-karpenter-hands-on-custom-resources-1am9)
@@ -51,9 +54,6 @@
 - [AWS Controllers for Kubernetes Hands-on](https://dev.to/aws-builders/aws-controllers-for-kubernetes-hands-on-2d70)
 - [Correlate Security Findings With AWS Security Hub and Amazon EventBridge](https://dev.to/aws-builders/correlate-security-findings-with-aws-security-hub-and-amazon-eventbridge-1hal)
 - [AWS BottleRocket On EKS NodeGroup](https://dev.to/aws-builders/aws-bottlerocket-on-eks-nodegroup-45ec)
-- [Apache Airflow In EKS Cluster](https://dev.to/aws-builders/apache-airflow-in-eks-cluster-dgo)
-- [Understand Pods communication](https://dev.to/aws-builders/understand-pods-communication-338c)
-- [EC2 Spot Interruptions - AWS Fault Injection Simulator](https://dev.to/aws-builders/ec2-spot-interruptions-aws-fault-injection-simulator-31i2)
 <!-- DEVTO_LIST:END -->
 
 ---
