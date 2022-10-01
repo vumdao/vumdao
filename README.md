@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [CDK AWS Cloudwatch Evidently Demo](https://dev.to/aws-builders/cdk-aws-cloudwatch-evidently-demo-2mo)
 - [Keda ScaledObject As Code Using CDK8S](https://dev.to/aws-builders/keda-scaledobject-as-code-using-cdk8s-268c)
 - [Access Control And OpenSearch Service Security](https://dev.to/aws-builders/access-control-and-opensearch-service-security-2lkn)
 - [AWS Athena Query WAF logs](https://dev.to/aws-builders/aws-athena-query-waf-logs-17ko)
@@ -53,7 +54,6 @@
 - [Use CDK8S To Create AWS Controllers for Kubernetes Custom Resources](https://dev.to/aws-builders/use-cdk8s-to-create-aws-controllers-for-kubernetes-custom-resources-4542)
 - [AWS Controllers for Kubernetes Hands-on](https://dev.to/aws-builders/aws-controllers-for-kubernetes-hands-on-2d70)
 - [Correlate Security Findings With AWS Security Hub and Amazon EventBridge](https://dev.to/aws-builders/correlate-security-findings-with-aws-security-hub-and-amazon-eventbridge-1hal)
-- [AWS BottleRocket On EKS NodeGroup](https://dev.to/aws-builders/aws-bottlerocket-on-eks-nodegroup-45ec)
 <!-- DEVTO_LIST:END -->
 
 ---
