@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [SlackApi Bolt-python App With AWS Lambda And AWS CDK](https://dev.to/aws-builders/slackapi-bolt-python-app-with-aws-lambda-and-aws-cdk-4h5d)
 - [AWS CDK Redshfit Demo](https://dev.to/aws-builders/aws-cdk-redshfit-demo-2ch5)
 - [CDK AWS Cloudwatch Evidently Demo](https://dev.to/aws-builders/cdk-aws-cloudwatch-evidently-demo-2mo)
 - [Keda ScaledObject As Code Using CDK8S](https://dev.to/aws-builders/keda-scaledobject-as-code-using-cdk8s-268c)
@@ -53,7 +54,6 @@
 - [Karpenter with AWS Node Termination Handler](https://dev.to/aws-builders/karpenter-with-aws-node-termination-handler-149d)
 - [AWS Karpenter Hands-on](https://dev.to/aws-builders/aws-karpenter-hands-on-custom-resources-1am9)
 - [Use CDK8S To Create AWS Controllers for Kubernetes Custom Resources](https://dev.to/aws-builders/use-cdk8s-to-create-aws-controllers-for-kubernetes-custom-resources-4542)
-- [AWS Controllers for Kubernetes Hands-on](https://dev.to/aws-builders/aws-controllers-for-kubernetes-hands-on-2d70)
 <!-- DEVTO_LIST:END -->
 
 ---
