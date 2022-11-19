@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Kyverno Policy As Code Using CDK8S](https://dev.to/aws-builders/kyverno-policy-as-code-using-cdk8s-3ibe)
 - [AWS Parameters and Secrets Lambda Extension Demo Using AWS CDK](https://dev.to/aws-builders/aws-parameters-and-secrets-lambda-extension-demo-using-aws-cdk-5e83)
 - [SlackApi Bolt-python App With AWS Lambda And AWS CDK](https://dev.to/aws-builders/slackapi-bolt-python-app-with-aws-lambda-and-aws-cdk-4h5d)
 - [AWS CDK Redshfit Demo](https://dev.to/aws-builders/aws-cdk-redshfit-demo-2ch5)
@@ -53,7 +54,6 @@
 - [AWS Athena Query WAF logs](https://dev.to/aws-builders/aws-athena-query-waf-logs-17ko)
 - [Troubleshoot Karpenter Node](https://dev.to/aws-builders/troubleshoot-karpenter-node-44p0)
 - [Karpenter with AWS Node Termination Handler](https://dev.to/aws-builders/karpenter-with-aws-node-termination-handler-149d)
-- [AWS Karpenter Hands-on](https://dev.to/aws-builders/aws-karpenter-hands-on-custom-resources-1am9)
 <!-- DEVTO_LIST:END -->
 
 ---
