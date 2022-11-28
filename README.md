@@ -44,6 +44,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [CDK Typescript Pipeline Workshop](https://dev.to/aws-builders/cdk-typescript-pipeline-workshop-4j64)
 - [Kyverno Policy As Code Using CDK8S](https://dev.to/aws-builders/kyverno-policy-as-code-using-cdk8s-3ibe)
 - [AWS Parameters and Secrets Lambda Extension Demo Using AWS CDK](https://dev.to/aws-builders/aws-parameters-and-secrets-lambda-extension-demo-using-aws-cdk-5e83)
 - [SlackApi Bolt-python App With AWS Lambda And AWS CDK](https://dev.to/aws-builders/slackapi-bolt-python-app-with-aws-lambda-and-aws-cdk-4h5d)
@@ -53,7 +54,6 @@
 - [Access Control And OpenSearch Service Security](https://dev.to/aws-builders/access-control-and-opensearch-service-security-2lkn)
 - [AWS Athena Query WAF logs](https://dev.to/aws-builders/aws-athena-query-waf-logs-17ko)
 - [Troubleshoot Karpenter Node](https://dev.to/aws-builders/troubleshoot-karpenter-node-44p0)
-- [Karpenter with AWS Node Termination Handler](https://dev.to/aws-builders/karpenter-with-aws-node-termination-handler-149d)
 <!-- DEVTO_LIST:END -->
 
 ---
