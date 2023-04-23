@@ -44,6 +44,8 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Manage IAM Access Key Of AWS Service Connection In Azure DevOps Pipeline](https://dev.to/aws-builders/manage-iam-access-key-of-aws-service-connection-in-azure-devops-pipeline-481k)
+- [CDK CloudWatch Auto Alarms](https://dev.to/aws-builders/cdk-cloudwatch-auto-alarms-539p)
 - [Run event-driven workflows with Amazon EKS Blueprints, Keda and Karpenter](https://dev.to/aws-builders/run-event-driven-workflows-with-amazon-eks-blueprints-keda-and-karpenter-160a)
 - [CDK Typescript Pipeline Workshop](https://dev.to/aws-builders/cdk-typescript-pipeline-workshop-4j64)
 - [Kyverno Policy As Code Using CDK8S](https://dev.to/aws-builders/kyverno-policy-as-code-using-cdk8s-3ibe)
@@ -52,8 +54,6 @@
 - [AWS CDK Redshfit Demo](https://dev.to/aws-builders/aws-cdk-redshfit-demo-2ch5)
 - [CDK AWS Cloudwatch Evidently Demo](https://dev.to/aws-builders/cdk-aws-cloudwatch-evidently-demo-2mo)
 - [Keda ScaledObject As Code Using CDK8S](https://dev.to/aws-builders/keda-scaledobject-as-code-using-cdk8s-268c)
-- [Access Control And OpenSearch Service Security](https://dev.to/aws-builders/access-control-and-opensearch-service-security-2lkn)
-- [AWS Athena Query WAF logs](https://dev.to/aws-builders/aws-athena-query-waf-logs-17ko)
 <!-- DEVTO_LIST:END -->
 
 ---
