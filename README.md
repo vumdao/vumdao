@@ -22,9 +22,10 @@
 <h2 align="left"><b>Connect with me:</b></h2>
 <p align="left">
     <a href="https://dev.to/vumdao" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="vumdao" height="30" width="40" /></a>
-    <a href="https://twitter.com/VuDao81124667" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="VuDao81124667" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/vu-dao-9280ab43" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vumdao" height="30" width="40" /></a>
-    <a href="https://github.com/vumdao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="vumdao" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/11430272/vumdao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/stackoverflow.svg" alt="vumdao" height="30" width="40" /></a>
+    <a href="https://twitter.com/VuDao81124667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VuDao81124667" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/vu-dao-9280ab43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vumdao" height="30" width="40" /></a>
+    <a href="https://github.com/vumdao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="vumdao" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/11430272/vumdao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vumdao" height="30" width="40" /></a>
 </p>
 
 ---
