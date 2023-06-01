@@ -45,6 +45,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Single-Sign-On By Vouch Proxy And AWS Cognito](https://dev.to/aws-builders/single-sign-on-by-vouch-proxy-and-aws-cognito-427g)
 - [FastApi With AWS Serverless powered by CDK Typescript](https://dev.to/aws-builders/fastapi-with-aws-serverless-powered-by-cdk-typescript-58a1)
 - [Amazon ECS Farget with Blue-Green Deployments by CDK Typescript - Part 2](https://dev.to/aws-builders/amazon-ecs-farget-with-blue-green-deployments-by-cdk-typescript-part-2-19f1)
 - [Hands-on Amazon ECS for Blue-Green Deployments With CDK Typescript - Part 1](https://dev.to/aws-builders/hands-on-amazon-ecs-for-blue-green-deployments-with-cdk-typescript-part-1-4ie3)
@@ -54,7 +55,6 @@
 - [CDK Typescript Pipeline Workshop](https://dev.to/aws-builders/cdk-typescript-pipeline-workshop-4j64)
 - [Kyverno Policy As Code Using CDK8S](https://dev.to/aws-builders/kyverno-policy-as-code-using-cdk8s-3ibe)
 - [AWS Parameters and Secrets Lambda Extension Demo Using AWS CDK](https://dev.to/aws-builders/aws-parameters-and-secrets-lambda-extension-demo-using-aws-cdk-5e83)
-- [SlackApi Bolt-python App With AWS Lambda And AWS CDK](https://dev.to/aws-builders/slackapi-bolt-python-app-with-aws-lambda-and-aws-cdk-4h5d)
 <!-- DEVTO_LIST:END -->
 
 ---
