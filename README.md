@@ -45,6 +45,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Multi-Tenancy In EKS Cluster Using Vcluster](https://dev.to/aws-builders/multi-tenancy-in-eks-cluster-using-vcluster-2pni)
 - [Single-Sign-On By Vouch Proxy And AWS Cognito](https://dev.to/aws-builders/single-sign-on-by-vouch-proxy-and-aws-cognito-427g)
 - [FastApi With AWS Serverless powered by CDK Typescript](https://dev.to/aws-builders/fastapi-with-aws-serverless-powered-by-cdk-typescript-58a1)
 - [Amazon ECS Farget with Blue-Green Deployments by CDK Typescript - Part 2](https://dev.to/aws-builders/amazon-ecs-farget-with-blue-green-deployments-by-cdk-typescript-part-2-19f1)
@@ -54,7 +55,6 @@
 - [Run event-driven workflows with Amazon EKS Blueprints, Keda and Karpenter](https://dev.to/aws-builders/run-event-driven-workflows-with-amazon-eks-blueprints-keda-and-karpenter-160a)
 - [CDK Typescript Pipeline Workshop](https://dev.to/aws-builders/cdk-typescript-pipeline-workshop-4j64)
 - [Kyverno Policy As Code Using CDK8S](https://dev.to/aws-builders/kyverno-policy-as-code-using-cdk8s-3ibe)
-- [AWS Parameters and Secrets Lambda Extension Demo Using AWS CDK](https://dev.to/aws-builders/aws-parameters-and-secrets-lambda-extension-demo-using-aws-cdk-5e83)
 <!-- DEVTO_LIST:END -->
 
 ---
