@@ -126,5 +126,5 @@
     color: #FFFFFF !important;
   }
 </style>
-<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="style">
 <br/>
