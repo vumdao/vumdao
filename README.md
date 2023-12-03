@@ -67,18 +67,10 @@
 ---
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.paypal.com/paypalme/daomvu">
-    <img align="left" alt="working" src="assets/end-background.jpeg?style=flat-square" width="300" height="300" style="max-width:100%;">
-    <img align='right' alt="relax" src="assets/giphy.gif?style=flat-square" height="300" width="300">
+  <img align="left" alt="working" src="assets/end-background.jpeg?style=flat-square" width="300" height="270" style="max-width:100%;">
+  <img align='right' alt="relax" src="assets/giphy.gif?style=flat-square" height="250" width="300">
+  <div align='center'>
+    <img align="center" alt="Buy me a coffee" src="assets/buymecoffee.png">
+  </div>
 </a>
-
-<br/>
-<div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 217 51" class="bmc-button" style="padding: 6px 6px 8px 8px; line-height: 35px; height: 51px; min-width: 217px; text-decoration: none; display: inline-flex; color: #FFFFFF; background-color: #FF813F; border-radius: 5px; border: 1px solid transparent; font-size: 22px; letter-spacing: 0.6px; box-shadow: 0px 2px 3px rgba(190, 190, 190, 0.5); margin: 0 auto; font-family: 'Cookie', cursive; -webkit-box-sizing: border-box; box-sizing: border-box; -o-transition: 0.3s all linear; -webkit-transition: 0.3s all linear; -moz-transition: 0.3s all linear; -ms-transition: 0.3s all linear; transition: 0.3s all linear;">
-    <a target="_blank" href="https://www.paypal.com/paypalme/daomvu" style="text-decoration: none;">
-      <rect width="100%" height="100%" fill="transparent"/>
-      <image href="assets/bmc-new-btn-logo.svg" height="54px" width="55px" align="center" alt="Buy me a coffee"/>
-      <text x="55" y="35" style="margin-left:15px; font-size: 30px;">Buy me a coffee</text>
-    </a>
-  </svg>
-</div>
 <br/>
