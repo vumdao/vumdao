@@ -66,11 +66,11 @@
 
 ---
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.paypal.com/paypalme/daomvu">
-  <img align="left" alt="working" src="assets/end-background.jpeg?style=flat-square" width="300" height="270" style="max-width:100%;">
+<a target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="working" src="assets/end-background.jpeg?style=flat-square" width="300" height="270">
   <img align='right' alt="relax" src="assets/giphy.gif?style=flat-square" height="250" width="300">
   <div align='center'>
-    <img align="center" alt="Buy me a coffee" src="assets/buymecoffee.png">
+    <img align="center" alt="Buy me a coffee" src="assets/buymecoffee.png" href="https://www.paypal.com/paypalme/daomvu">
   </div>
 </a>
 <br/>
