@@ -67,10 +67,11 @@
 ---
 
 <a target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="working" src="assets/end-background.jpeg?style=flat-square" width="300" height="270">
-  <img align='right' alt="relax" src="assets/giphy.gif?style=flat-square" height="250" width="300">
+  <img align="left" alt="working" src="assets/end-background.jpeg" width="300" height="270">
+  <img align='right' alt="relax" src="assets/giphy.gif" height="250" width="300">
 </a>
 <br/>
-<div align='center'>
+
+<p align='center'>
   <img align="center" alt="Buy me a coffee" src="assets/buymecoffee.png" href="https://www.paypal.com/paypalme/daomvu">
-</div>
+</p>
