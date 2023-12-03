@@ -65,14 +65,14 @@
 ![Vu Dao's github streak](https://github-readme-streak-stats.herokuapp.com/?user=vumdao&theme=blue-green)
 
 ---
+<p align='center'>
+  <a href="https://www.paypal.com/paypalme/daomvu" target="_blank"> <img src="assets/buymecoffee.png" alt="Buy me a coffee"/> </a>
+</p>
+<br/>
+<br/>
 
 <a target="_blank" rel="noopener noreferrer">
   <img align="left" alt="working" src="assets/end-background.jpeg" width="300" height="270">
   <img align='right' alt="relax" src="assets/giphy.gif" height="250" width="300">
   <br/>
 </a>
-<br/>
-
-<p align='center'>
-  <a href="https://www.paypal.com/paypalme/daomvu" target="_blank"> <img src="assets/buymecoffee.png" alt="Buy me a coffee"/> </a>
-</p>
