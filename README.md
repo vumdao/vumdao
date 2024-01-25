@@ -45,6 +45,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Bootstrapping AWS CDK Automation With Amazon CodeCatalyst](https://dev.to/aws-builders/bootstrapping-aws-cdk-automation-with-amazon-codecatalyst-4pa8)
 - [Multi-Tenancy In EKS Cluster Using Vcluster](https://dev.to/aws-builders/multi-tenancy-in-eks-cluster-using-vcluster-2pni)
 - [Single-Sign-On By Vouch Proxy And AWS Cognito](https://dev.to/aws-builders/single-sign-on-by-vouch-proxy-and-aws-cognito-427g)
 - [FastApi With AWS Serverless powered by CDK Typescript](https://dev.to/aws-builders/fastapi-with-aws-serverless-powered-by-cdk-typescript-58a1)
@@ -54,7 +55,6 @@
 - [CDK CloudWatch Auto Alarms](https://dev.to/aws-builders/cdk-cloudwatch-auto-alarms-539p)
 - [Run event-driven workflows with Amazon EKS Blueprints, Keda and Karpenter](https://dev.to/aws-builders/run-event-driven-workflows-with-amazon-eks-blueprints-keda-and-karpenter-160a)
 - [CDK Typescript Pipeline Workshop](https://dev.to/aws-builders/cdk-typescript-pipeline-workshop-4j64)
-- [Kyverno Policy As Code Using CDK8S](https://dev.to/aws-builders/kyverno-policy-as-code-using-cdk8s-3ibe)
 <!-- DEVTO_LIST:END -->
 
 ---
