@@ -45,6 +45,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Empowering Amazon CodeCatalyst: Workflows as Code with CodeCatalyst-Blueprints](https://dev.to/aws-builders/empowering-amazon-codecatalyst-workflows-as-code-with-codecatalyst-blueprints-4bgm)
 - [Bootstrapping AWS CDK Automation With Amazon CodeCatalyst](https://dev.to/aws-builders/bootstrapping-aws-cdk-automation-with-amazon-codecatalyst-4pa8)
 - [Multi-Tenancy In EKS Cluster Using Vcluster](https://dev.to/aws-builders/multi-tenancy-in-eks-cluster-using-vcluster-2pni)
 - [Single-Sign-On By Vouch Proxy And AWS Cognito](https://dev.to/aws-builders/single-sign-on-by-vouch-proxy-and-aws-cognito-427g)
@@ -54,7 +55,6 @@
 - [Manage IAM Access Key Of AWS Service Connection In Azure DevOps Pipeline](https://dev.to/aws-builders/manage-iam-access-key-of-aws-service-connection-in-azure-devops-pipeline-481k)
 - [CDK CloudWatch Auto Alarms](https://dev.to/aws-builders/cdk-cloudwatch-auto-alarms-539p)
 - [Run event-driven workflows with Amazon EKS Blueprints, Keda and Karpenter](https://dev.to/aws-builders/run-event-driven-workflows-with-amazon-eks-blueprints-keda-and-karpenter-160a)
-- [CDK Typescript Pipeline Workshop](https://dev.to/aws-builders/cdk-typescript-pipeline-workshop-4j64)
 <!-- DEVTO_LIST:END -->
 
 ---
