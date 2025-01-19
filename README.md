@@ -45,6 +45,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [CDK AWS Aurora PostgreSQL Limitless](https://dev.to/aws-builders/cdk-aws-aurora-postgresql-limitless-74n)
 - [ECS service-to-service communication](https://dev.to/aws-builders/ecs-service-to-service-communication-4clk)
 - [Empowering Amazon CodeCatalyst: Workflows as Code with CodeCatalyst-Blueprints](https://dev.to/aws-builders/empowering-amazon-codecatalyst-workflows-as-code-with-codecatalyst-blueprints-4bgm)
 - [Bootstrapping AWS CDK Automation With Amazon CodeCatalyst](https://dev.to/aws-builders/bootstrapping-aws-cdk-automation-with-amazon-codecatalyst-4pa8)
@@ -54,7 +55,6 @@
 - [Amazon ECS Farget with Blue-Green Deployments by CDK Typescript - Part 2](https://dev.to/aws-builders/amazon-ecs-farget-with-blue-green-deployments-by-cdk-typescript-part-2-19f1)
 - [Hands-on Amazon ECS for Blue-Green Deployments With CDK Typescript - Part 1](https://dev.to/aws-builders/hands-on-amazon-ecs-for-blue-green-deployments-with-cdk-typescript-part-1-4ie3)
 - [Manage IAM Access Key Of AWS Service Connection In Azure DevOps Pipeline](https://dev.to/aws-builders/manage-iam-access-key-of-aws-service-connection-in-azure-devops-pipeline-481k)
-- [CDK CloudWatch Auto Alarms](https://dev.to/aws-builders/cdk-cloudwatch-auto-alarms-539p)
 <!-- DEVTO_LIST:END -->
 
 ---
