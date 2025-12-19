@@ -45,6 +45,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [Self-Hosted N8N on AWS ECS with AWS CDK Typescript](https://dev.to/aws-builders/self-hosted-n8n-on-aws-ecs-with-aws-cdk-typescript-l6d)
 - [ClamAV &lpar;Anti-Virus&rpar; as a REST application on AWS ECS](https://dev.to/aws-builders/clamav-anti-virus-as-a-rest-application-on-aws-ecs-1d0e)
 - [CDK AWS Aurora PostgreSQL Limitless](https://dev.to/aws-builders/cdk-aws-aurora-postgresql-limitless-74n)
 - [ECS service-to-service communication](https://dev.to/aws-builders/ecs-service-to-service-communication-4clk)
@@ -54,7 +55,6 @@
 - [Single-Sign-On By Vouch Proxy And AWS Cognito](https://dev.to/aws-builders/single-sign-on-by-vouch-proxy-and-aws-cognito-427g)
 - [FastApi With AWS Serverless powered by CDK Typescript](https://dev.to/aws-builders/fastapi-with-aws-serverless-powered-by-cdk-typescript-58a1)
 - [Amazon ECS Farget with Blue-Green Deployments by CDK Typescript - Part 2](https://dev.to/aws-builders/amazon-ecs-farget-with-blue-green-deployments-by-cdk-typescript-part-2-19f1)
-- [Hands-on Amazon ECS for Blue-Green Deployments With CDK Typescript - Part 1](https://dev.to/aws-builders/hands-on-amazon-ecs-for-blue-green-deployments-with-cdk-typescript-part-1-4ie3)
 <!-- DEVTO_LIST:END -->
 
 ---
