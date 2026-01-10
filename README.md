@@ -45,6 +45,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [CI Load Test for http-echo using Kind and k6](https://dev.to/vumdao/ci-load-test-for-http-echo-using-kind-and-k6-4nab)
 - [Self-Hosted N8N on AWS ECS with AWS CDK Typescript](https://dev.to/aws-builders/self-hosted-n8n-on-aws-ecs-with-aws-cdk-typescript-l6d)
 - [ClamAV &lpar;Anti-Virus&rpar; as a REST application on AWS ECS](https://dev.to/aws-builders/clamav-anti-virus-as-a-rest-application-on-aws-ecs-1d0e)
 - [CDK AWS Aurora PostgreSQL Limitless](https://dev.to/aws-builders/cdk-aws-aurora-postgresql-limitless-74n)
@@ -54,7 +55,6 @@
 - [Multi-Tenancy In EKS Cluster Using Vcluster](https://dev.to/aws-builders/multi-tenancy-in-eks-cluster-using-vcluster-2pni)
 - [Single-Sign-On By Vouch Proxy And AWS Cognito](https://dev.to/aws-builders/single-sign-on-by-vouch-proxy-and-aws-cognito-427g)
 - [FastApi With AWS Serverless powered by CDK Typescript](https://dev.to/aws-builders/fastapi-with-aws-serverless-powered-by-cdk-typescript-58a1)
-- [Amazon ECS Farget with Blue-Green Deployments by CDK Typescript - Part 2](https://dev.to/aws-builders/amazon-ecs-farget-with-blue-green-deployments-by-cdk-typescript-part-2-19f1)
 <!-- DEVTO_LIST:END -->
 
 ---
