@@ -45,6 +45,7 @@
 
 ## Latest published on [Dev.to](https://dev.to/vumdao)
 <!-- DEVTO_LIST:START -->
+- [tf-nag: offline AWS Solutions checks for Terraform plans](https://dev.to/aws-builders/tf-nag-offline-aws-solutions-checks-for-terraform-plans-10ia)
 - [CI Load Test for http-echo using Kind and k6](https://dev.to/vumdao/ci-load-test-for-http-echo-using-kind-and-k6-4nab)
 - [Self-Hosted N8N on AWS ECS with AWS CDK Typescript](https://dev.to/aws-builders/self-hosted-n8n-on-aws-ecs-with-aws-cdk-typescript-l6d)
 - [ClamAV &lpar;Anti-Virus&rpar; as a REST application on AWS ECS](https://dev.to/aws-builders/clamav-anti-virus-as-a-rest-application-on-aws-ecs-1d0e)
@@ -54,7 +55,6 @@
 - [Bootstrapping AWS CDK Automation With Amazon CodeCatalyst](https://dev.to/aws-builders/bootstrapping-aws-cdk-automation-with-amazon-codecatalyst-4pa8)
 - [Multi-Tenancy In EKS Cluster Using Vcluster](https://dev.to/aws-builders/multi-tenancy-in-eks-cluster-using-vcluster-2pni)
 - [Single-Sign-On By Vouch Proxy And AWS Cognito](https://dev.to/aws-builders/single-sign-on-by-vouch-proxy-and-aws-cognito-427g)
-- [FastApi With AWS Serverless powered by CDK Typescript](https://dev.to/aws-builders/fastapi-with-aws-serverless-powered-by-cdk-typescript-58a1)
 <!-- DEVTO_LIST:END -->
 
 ---
